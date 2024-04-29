@@ -1,0 +1,19 @@
+{
+  "name": "project002",
+  "version": "1.0.0",
+  "description": "A Simple ATM with Typscript , Node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdul Basit",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
